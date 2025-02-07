@@ -11,6 +11,7 @@
 
 - 🌐 My websites:
   - https://aldolushkja.it - Personal portfolio
+  - https://blog.aldolushkja.it - Personal blog portfolio
   - https://coder-utils.aldolushkja.it/ - Developer utilities
 
 <h3 align="left">Connect with me:</h3>
