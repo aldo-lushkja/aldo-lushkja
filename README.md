@@ -10,9 +10,10 @@
 - 📫 How to reach me **aldo.lushkja@outlook.it**
 
 - 🌐 My websites:
-  - https://aldolushkja.it - Personal portfolio
-  - https://blog.aldolushkja.it - Personal blog portfolio
-  - https://coder-utils.aldolushkja.it/ - Developer utilities
+  - https://aldolushkja.it - Personal portfolio 
+  - https://blog.aldolushkja.it - Personal Blog using HashCode (sometime writing some useful content)
+  - https://tools.aldolushkja.it/ - Developer utilities (collection of useful tools)
+  - https://lushkja.it - Freelance Company Website (custom template)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
